@@ -1,0 +1,11 @@
+1.使用sz前的准备工作：
+  https://segmentfault.com/a/1190000012166969
+
+2.使用svn checkout将代码从服务器拉到测试机。
+svn checkout [代码地址] [目的路径]
+代码地址：
+    http://abc.com/helloworld/test/
+    svn://192.1.1.1/test/
+
+3.下载后可以sz到本地mac。
+  注意sz只能下载压缩包，不能下载文件夹。
