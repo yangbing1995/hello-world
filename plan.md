@@ -40,7 +40,7 @@
   <tr>
     <td>16:40 - 18:00</td>
     <td>WF APP请求细看1</td>
-    <td></td>
+    <td>done</td>
   </tr>
   <tr>
     <td>19:00 - 21:20</td>
