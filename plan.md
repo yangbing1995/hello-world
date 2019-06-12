@@ -1,7 +1,8 @@
 未完成任务：WF串讲，shell\python\mapreduce技术分享，新人培训课程<p>
 第一次串讲内容：app相关业务处理<p>
-<font color=#0099ff>报销事宜咨询</font>
- 
+```diff
+- 报销事宜咨询并处理
+```
 <table>
   <tr>
     <td>日期</td>
