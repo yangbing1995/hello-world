@@ -30,7 +30,7 @@
   <tr>
     <td>10:30 - 12:00</td>
     <td>leetcode问题1(python/C++)</td>
-    <td></td>
+    <td>done</td>
   </tr>
   <tr>
     <td>14:00 - 15:20</td>
