@@ -28,17 +28,17 @@
     <td>done</td>
   </tr>
   <tr>
-    <td>10:30 - 12:00</td>
+    <td>10:30 - 12:00<p>14:00 - 15:00</td>
     <td>leetcode问题1(python/C++)</td>
     <td>done</td>
   </tr>
   <tr>
-    <td>14:00 - 15:20</td>
+    <td>15:00 - 15:40</td>
     <td>新人报告ppt</td>
-    <td></td>
+    <td>done</td>
   </tr>
   <tr>
-    <td>15:20 - 18:00</td>
+    <td>16:40 - 18:00</td>
     <td>WF APP请求细看1</td>
     <td></td>
   </tr>
