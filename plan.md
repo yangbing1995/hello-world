@@ -23,7 +23,7 @@
     <td  rowspan="5">2019.6.12</td>
     <td>10:00 - 12:00</td>
     <td>配置vscode环境</td>
-    <td><done/td>
+    <td>done</td>
   </tr>
   <tr>
     <td>14:00 - 15:20</td>
