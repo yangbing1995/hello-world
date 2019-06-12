@@ -9,24 +9,40 @@
     <td>进度</td>
   </tr>
   <tr>
-    <td  rowspan="4">2019.6.11</td>
+    <td  rowspan="2">2019.6.11</td>
     <td>15:00 - 18:00</td>
     <td>安装vscode和pycharmsvn<p>checkout 代码到测试机，sz到本地</td>
     <td>done</td>
   </tr>
   <tr>
-    <td>19:00 - 20:30</td>
-    <td>写一个python小程序<p>写一个C++小程序</td>
+    <td>19:00 - 21:30</td>
+    <td>更新mac，装xcode</td>
+    <td>done</td>
+  </tr>
+  <tr>
+    <td  rowspan="5">2019.6.12</td>
+    <td>10:00 - 12:00</td>
+    <td>配置vscode环境</td>
     <td></td>
   </tr>
-    <tr>
-    <td>20:30 - 21:20</td>
+  <tr>
+    <td>14:00 - 15:20</td>
     <td>新人报告ppt</td>
     <td></td>
   </tr>
-    <tr>
-    <td>21:20 - 21:30</td>
-    <td>发邮件，拿钥匙</td>
+  <tr>
+    <td>15:20 - 18:00</td>
+    <td>WF APP请求细看1</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>19:00 - 20:30</td>
+    <td>WF APP请求细看2</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>20:30 - 21:30</td>
+    <td>写一个python小程序<p>写一个C++小程序</td>
     <td></td>
   </tr>
 </table>
