@@ -27,7 +27,7 @@
   </tr>
   <tr>
     <td>10:30 - 12:00</td>
-    <td>写一个python小程序<p>写一个C++小程序</td>
+    <td>leetcode问题1(python/C++)</td>
     <td></td>
   </tr>
   <tr>
