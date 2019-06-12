@@ -20,7 +20,7 @@
     <td>done</td>
   </tr>
   <tr>
-    <td  rowspan="5">2019.6.12</td>
+    <td  rowspan="6">2019.6.12</td>
     <td>10:00 - 10:30</td>
     <td>配置vscode环境</td>
     <td>done</td>
