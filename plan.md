@@ -21,9 +21,14 @@
   </tr>
   <tr>
     <td  rowspan="5">2019.6.12</td>
-    <td>10:00 - 12:00</td>
+    <td>10:00 - 10:30</td>
     <td>配置vscode环境</td>
     <td>done</td>
+  </tr>
+  <tr>
+    <td>10:30 - 12:00</td>
+    <td>写一个python小程序<p>写一个C++小程序</td>
+    <td></td>
   </tr>
   <tr>
     <td>14:00 - 15:20</td>
@@ -36,13 +41,13 @@
     <td></td>
   </tr>
   <tr>
-    <td>19:00 - 20:30</td>
+    <td>19:00 - 21:20</td>
     <td>WF APP请求细看2</td>
     <td></td>
   </tr>
   <tr>
-    <td>20:30 - 21:30</td>
-    <td>写一个python小程序<p>写一个C++小程序</td>
+    <td>21:20 - 21:30</td>
+    <td>发邮件通知新人报告</td>
     <td></td>
   </tr>
 </table>
