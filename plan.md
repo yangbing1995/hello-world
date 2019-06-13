@@ -63,13 +63,12 @@
   <tr>
     <td>14:00 - 15:30</td>
     <td>leetcode问题7(python/C++/shell)</td>
-    <td></td>
+    <td>delay</td>
   </tr>
   <tr>
     <td>15:30 - 18:00</td>
     <td>WF APP请求细看4</td>
-    <td></td>
-    <td>path 含义及path之间的联系梳理</td>
+    <td>done</td>
   </tr>
   <tr>
     <td>19:00 - 21:20</td>
