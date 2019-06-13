@@ -52,7 +52,7 @@
   <tr>
     <td>21:20 - 21:30</td>
     <td>发邮件通知新人报告</td>
-    <td>delay</td>
+    <td>done</td>
   </tr>
   <tr>
     <td  rowspan="5">2019.6.13</td>
