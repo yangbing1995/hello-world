@@ -53,6 +53,7 @@
     <td>21:20 - 21:30</td>
     <td>发邮件通知新人报告</td>
     <td>delay</td>
+    <td>finish in 20190613</td>
   </tr>
   <tr>
     <td  rowspan="5">2019.6.13</td>
@@ -63,7 +64,7 @@
   <tr>
     <td>14:00 - 15:30</td>
     <td>leetcode问题7(python/C++/shell)</td>
-    <td>delay</td>
+    <td><b><h2>delay</b></td>
   </tr>
   <tr>
     <td>15:30 - 18:00</td>
@@ -73,8 +74,7 @@
   <tr>
     <td>19:00 - 21:20</td>
     <td>WF APP请求细看5</td>
-    <td></td>
-    <td>path 含义及path之间的联系梳理</td>
+    <td>done</td>
   </tr>
   <tr>
     <td>21:20 - 21:30</td>
