@@ -1,7 +1,6 @@
 未完成任务：WF串讲，shell\python\mapreduce技术分享，新人培训课程<p>
 第一次串讲内容：app相关业务处理<p>
 ```diff
-- 报销事宜咨询并处理
 - WF 外部连接关系、所有PATH的含义还有 APP的业务线
 ```
 <table>
