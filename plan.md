@@ -63,7 +63,8 @@
   <tr>
     <td>14:00 - 15:30</td>
     <td>leetcode问题7(python/C++/shell)</td>
-    <td><b><h2>delay</b></td>
+    <td>done</td>
+    <td>finish in 20190617</td>
   </tr>
   <tr>
     <td>15:30 - 18:00</td>
@@ -84,7 +85,7 @@
     <td  rowspan="4">2019.6.17</td>
     <td>10:00 - 12:00</td>
     <td>leetcode问题7(python/C++/shell)</td>
-    <td></td>
+    <td>done</td>
   </tr>
   <tr>
     <td>14:00 - 15:30</td>
