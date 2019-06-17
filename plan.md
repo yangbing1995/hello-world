@@ -80,4 +80,28 @@
     <td>发邮件通知新人报告</td>
     <td>done</td>
   </tr>
+  <tr>
+    <td  rowspan="4">2019.6.17</td>
+    <td>10:00 - 12:00</td>
+    <td>leetcode问题7(python/C++/shell)</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>14:00 - 15:30</td>
+    <td>WF APP请求细看6</td>
+    <td></td>
+    <td>WF 外部连接脱稿讲下来</td>
+  </tr>
+  <tr>
+    <td>15:30 - 18:00</td>
+    <td>WF APP请求细看7</td>
+    <td></td>
+    <td>WF 各PATH含义脱稿讲下来</td>
+  </tr>
+  <tr>
+    <td>19:00 - 21:20</td>
+    <td>WF APP请求细看8</td>
+    <td></td>
+    <td>顺一遍APP业务过程</td>
+  </tr>
 </table>
