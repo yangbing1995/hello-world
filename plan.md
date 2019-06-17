@@ -86,24 +86,43 @@
     <td>10:00 - 12:00</td>
     <td>leetcode问题7(python/C++/shell)</td>
     <td>done</td>
-    <td>shell 未完成</td>
   </tr>
   <tr>
     <td>14:00 - 15:30</td>
     <td>WF APP请求细看6</td>
-    <td></td>
-    <td>WF 外部连接脱稿讲下来</td>
+    <td>done</td>
   </tr>
   <tr>
     <td>15:30 - 18:00</td>
     <td>WF APP请求细看7</td>
-    <td></td>
-    <td>WF 各PATH含义脱稿讲下来</td>
+    <td>done</td>
   </tr>
   <tr>
     <td>19:00 - 21:20</td>
     <td>WF APP请求细看8</td>
     <td></td>
     <td>顺一遍APP业务过程</td>
+  </tr>
+    <tr>
+    <td  rowspan="4">2019.6.18</td>
+    <td>10:00 - 12:00</td>
+    <td>leetcode问题9(python/C++/shell)</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>14:00 - 18:00</td>
+    <td>WF APP请求细看9</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>19:00 - 21:20</td>
+    <td>WF APP请求细看10</td>
+    <td></td>
+    <td>顺完一遍再一遍</td>
+  </tr>
+    <tr>
+    <td>21:20 - 21:30</td>
+    <td>发邮件串讲WF</td>
+    <td></td>
   </tr>
 </table>
