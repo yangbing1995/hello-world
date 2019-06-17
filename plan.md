@@ -86,6 +86,7 @@
     <td>10:00 - 12:00</td>
     <td>leetcode问题7(python/C++/shell)</td>
     <td>done</td>
+    <td>shell 未完成</td>
   </tr>
   <tr>
     <td>14:00 - 15:30</td>
