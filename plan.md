@@ -111,18 +111,39 @@
   <tr>
     <td>14:00 - 18:00</td>
     <td>WF APP请求细看9</td>
-    <td></td>
-    <td>整理文档，脱稿顺一遍</td>
+    <td>done</td>
   </tr>
   <tr>
     <td>19:00 - 21:20</td>
     <td>WF APP请求细看10</td>
-    <td></td>
-    <td>顺完一遍再一遍</td>
+    <td>done</td>
   </tr>
     <tr>
     <td>21:20 - 21:30</td>
     <td>发邮件串讲WF</td>
+    <td>delay</td>
+  </tr>
+      <tr>
+    <td  rowspan="4">2019.6.19</td>
+    <td>10:00 - 12:00</td>
+    <td>WF APP请求细看11</td>
+    <td></td>
+    <td>整理文档，顺一遍</td>
+  </tr>
+  <tr>
+    <td>14:00 - 18:00</td>
+    <td>WF APP请求细看12</td>
+    <td></td>
+    <td>顺一遍，记得看之前串讲提问的问题！！</td>
+  </tr>
+  <tr>
+    <td>19:00 - 21:00</td>
+    <td>WF 第一次串讲</td>
+    <td></td>
+  </tr>
+    <tr>
+    <td>21:00 - 21:30</td>
+    <td>WF 第一次串讲 整理问题</td>
     <td></td>
   </tr>
 </table>
