@@ -100,19 +100,18 @@
   <tr>
     <td>19:00 - 21:20</td>
     <td>WF APP请求细看8</td>
-    <td></td>
-    <td>顺一遍APP业务过程</td>
+    <td>done</td>
   </tr>
     <tr>
     <td  rowspan="4">2019.6.18</td>
     <td>10:00 - 12:00</td>
     <td>leetcode问题9(python/C++/shell)</td>
-    <td></td>
+    <td>done</td>
   </tr>
   <tr>
     <td>14:00 - 18:00</td>
     <td>WF APP请求细看9</td>
-    <td></td>
+    <td>整理文档，脱稿顺一遍</td>
   </tr>
   <tr>
     <td>19:00 - 21:20</td>
