@@ -1,7 +1,7 @@
 未完成任务：WF串讲，shell\python\mapreduce技术分享，新人培训课程<p>
-第一次串讲内容：app相关业务处理<p>
+第二次串讲内容：app相关业务处理<p>
 ```diff
-- WF 外部连接关系、所有PATH的含义还有 APP的业务线
+- WF APP的业务线全梳理
 ```
 <table>
   <tr>
